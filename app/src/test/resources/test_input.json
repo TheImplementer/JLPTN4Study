@@ -1,0 +1,17 @@
+[
+  {
+    "kanji": "悪",
+    "readings": [
+      {
+        "type": "ONYOUMI",
+        "reading": "アク"
+      },
+      {
+        "type": "KUNYOUMI_WITH_OKURIGANA",
+        "reading": "わる",
+        "okurigana": "い"
+      }
+    ],
+    "meanings": "bad, mean"
+  }
+]
